@@ -118,10 +118,10 @@ with st.sidebar:
     # Mapping Template (Pastikan nama file SAMA PERSIS dengan yg diupload)
     # Sesuaikan nama file PANITIA dengan file yang kamu upload (Surat Kepanitiaan.docx atau TEMPLATE_PANITIA.docx)
     template_map = {
-        "BERSAMA": "Surat Bersama (ABC).docx", 
-        "IPNU": "TEMPLATE_IPNU.docx",
-        "IPPNU": "TEMPLATE_IPPNU.docx",
-        "PANITIA": "Surat Kepanitiaan.docx" 
+        "BERSAMA": "template/Surat Bersama (ABC).docx", 
+        "IPNU": "template/TEMPLATE_IPNU.docx",
+        "IPPNU": "template/TEMPLATE_IPPNU.docx",
+        "PANITIA": "template/Surat Kepanitiaan.docx" 
     }
     file_template = template_map[jenis_kop]
 
