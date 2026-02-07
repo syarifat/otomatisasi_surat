@@ -1,0 +1,19 @@
+{{ nomor_surat }}
+{{ jumlah_lampiran }}
+{{ perihal }}
+{{ penerima }}
+{{ alamat_penerima }}
+{{ pembuka }} placeholder -> Dalam rangka menindaklanjuti hasil musyawarah Pimpinan Anak Cabang IPNU IPPNU Kecamatan Kauman, kami bermaksud mengadakan kegiatan Rapat Kerja II PAC IPNU IPPNU Kauman pada :
+{{ hari_pelaksanaan }}, {{ tanggal_pelaksanaan }}
+{{ waktu_pelaksanaan }}
+{{ tempat_pelaksanaan }}
+{{ isi }} placeholder -> Sehubungan dengan hal tersebut, kami memohon izin dan kesediaan Bapak untuk 
+meminjamkan sarana dan prasarana sekolah guna mendukung kelancaran kegiatan 
+tersebut. Adapun daftar unit yang kami perlukan telah kami rincikan pada lampiran 
+surat ini.
+{{ penutup }} placeholder -> Demikian surat undangan ini kami buat, atas perhatian dan kehadirannya kami sampaikan terimakasih.
+{{tanggal_pembuatan_surat_hijriyah }}
+{{ tanggal_pembuatan_surat_masehi }}
+{{ nama_acara }}
+{{ nama_ketupel }}
+{{ nama_sekpel }}
