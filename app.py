@@ -105,7 +105,7 @@ st.set_page_config(page_title="Sistem Surat IPNU IPPNU", page_icon="📝", layou
 # Init DB
 init_db()
 
-st.title("📝 Generator Surat (TiDB Cloud)")
+st.title("📝 Generator Surat")
 st.markdown("Sistem Administrasi Otomatis - PAC Kauman")
 
 # --- SIDEBAR: LOGIC PEMILIHAN SURAT ---
